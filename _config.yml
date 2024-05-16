@@ -1,0 +1,11 @@
+title: Mi Sitio Jekyll con Minima por ana 
+description: Este es un sitio web de ejemplo utilizando Jekyll y el tema Minima.
+baseurl: "" # deja esto en blanco para la raíz del proyecto
+url: "https://tu-usuario.github.io" # la URL base de tu sitio
+
+# Configuración del tema
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
